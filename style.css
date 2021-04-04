@@ -1,0 +1,68 @@
+:root {
+    width: 883px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#strogonoff {
+    width: 883px;
+    height: 497px;
+}
+
+header > h1 {
+    font-weight: bold;
+    font-size: 89px;
+    line-height: 79px;
+    color: #FFB300;
+}
+
+.autor {
+    color: black;
+    font-size: 21px;
+    font-weight: bold ;
+    text-align: right;
+}
+
+.descricao {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.61;
+    color: black;
+}
+
+.numeros {
+    text-transform: uppercase;
+}
+
+section > h2 {
+    font-weight: 34px;
+    color: #FFB300;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.61;
+}
+
+ol {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.61;
+}
+
+iframe {
+    width: 883px;
+    height: 497px;
+}
+
+.topo {
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037B3;
+}
+
+section {
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
